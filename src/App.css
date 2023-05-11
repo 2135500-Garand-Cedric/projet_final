@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.PokemonsTable th, .PokemonsTable td {
+  text-align: left;
+  padding-right: 15px;
+}
+
+#avatar {
+  position: absolute;
+  top: 80px;
+  left: 80px;
+}
+
+#gestionCle {
+  position: absolute;
+  top: 350px;
+  left: 80px;
+}
